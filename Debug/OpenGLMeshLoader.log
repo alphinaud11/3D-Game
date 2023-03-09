@@ -1,0 +1,10 @@
+﻿  OpenGLMeshLoader19.cpp
+C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(228,32): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(228,46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(245,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(245,60): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(922,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\Helmy\Downloads\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
